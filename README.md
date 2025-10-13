@@ -69,7 +69,6 @@ Dynamic Title =
 SELECTEDVALUE('grocery_cleaned'[Outlet Location Type], "All Locations") & 
 " | " &
 SELECTEDVALUE('grocery_cleaned'[Item Fat Content], "All Items")
-    ```powerquery
 
 ## 🔍 Recommendations
 
