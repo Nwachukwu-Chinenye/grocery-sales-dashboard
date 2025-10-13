@@ -63,13 +63,12 @@ It connects directly to MySQL to demonstrate **end-to-end data analysis** — fr
 
 A dynamic title was created using a DAX measure:
 
-      ```DAX
+    ```DAX
 Dynamic Title = 
 "Grocery Sales  Dashboard - " &
 SELECTEDVALUE('grocery_cleaned'[Outlet Location Type], "All Locations") & 
 " | " &
-SELECTEDVALUE('grocery_cleaned'[Item Fat Content], "All Items")
-          ```
+SELECTEDVALUE('grocery_cleaned'[Item Fat Content], "All Items")```
 
 ## 🔍 Recommendations
 
