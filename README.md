@@ -63,13 +63,13 @@ It connects directly to MySQL to demonstrate **end-to-end data analysis** — fr
 
 A dynamic title was created using a DAX measure:
 
-    ```DAX
+      ```DAX
 Dynamic Title = 
 "Grocery Sales  Dashboard - " &
 SELECTEDVALUE('grocery_cleaned'[Outlet Location Type], "All Locations") & 
 " | " &
 SELECTEDVALUE('grocery_cleaned'[Item Fat Content], "All Items")
-    ```
+          ```
 
 ## 🔍 Recommendations
 
@@ -84,16 +84,6 @@ SELECTEDVALUE('grocery_cleaned'[Item Fat Content], "All Items")
 2. Connect to your **MySQL database** if required.  
 3. Refresh the data to update visuals.  
 4. Interact with slicers and watch the **dynamic title** adjust automatically.
-
-
-## 🤝 Contribution
-
-Contributions are welcome!  
-If you’d like to improve this project:
-1. Fork the repository  
-2. Create a new branch (`feature-name`)  
-3. Make your changes and commit  
-4. Open a pull request with a clear explanation of what you’ve added or fixed  
 
 ## 🤝 Contribution
 
