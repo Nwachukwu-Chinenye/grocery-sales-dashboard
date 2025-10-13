@@ -69,6 +69,7 @@ Dynamic Title =
 SELECTEDVALUE('grocery_cleaned'[Outlet Location Type], "All Locations") & 
 " | " &
 SELECTEDVALUE('grocery_cleaned'[Item Fat Content], "All Items")
+'''
 
 ## 🔍 Recommendations
 
@@ -106,8 +107,8 @@ If you’d like to improve this project:
 ## Contact
 
 Lets connect:
-Here is my [LinkedIn](www.linkedin.com/in/chinenye-jennifer-nwachukwu)
-And my [Email](mailto:nwachukwuchinenyejennifer@gmail.com)
+- [LinkedIn](www.linkedin.com/in/chinenye-jennifer-nwachukwu)
+- [Email](mailto:nwachukwuchinenyejennifer@gmail.com)
 
 ## 🕓 Last Updated
 
