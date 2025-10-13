@@ -59,16 +59,17 @@ It connects directly to MySQL to demonstrate **end-to-end data analysis** — fr
   - Outlet Location Type  
   - Item Fat Content
  
-### Dynamic Title
+### 🧮 Dynamic Title
 
 A dynamic title was created using a DAX measure:
 
-    ```powerquery
+```DAX
 Dynamic Title = 
-"Grocery Sales  Dashboard - " &
+"Grocery Sales Dashboard - " &
 SELECTEDVALUE('grocery_cleaned'[Outlet Location Type], "All Locations") & 
 " | " &
 SELECTEDVALUE('grocery_cleaned'[Item Fat Content], "All Items")
+```
 
 ## 🔍 Recommendations
 
