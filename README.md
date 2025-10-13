@@ -105,9 +105,9 @@ If you’d like to improve this project:
 
 ## Contact
 
-Lets connect on 
-[LinkedIn](www.linkedin.com/in/chinenye-jennifer-nwachukwu)
-[Email](nwachukwuchinenyejennifer@gmail.com)
+Lets connect:
+Here is my [LinkedIn](www.linkedin.com/in/chinenye-jennifer-nwachukwu)
+And my [Email](mailto:nwachukwuchinenyejennifer@gmail.com)
 
 ## 🕓 Last Updated
 
