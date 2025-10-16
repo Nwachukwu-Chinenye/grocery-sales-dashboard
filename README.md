@@ -85,11 +85,6 @@ SELECTEDVALUE('grocery_cleaned'[Item Fat Content], "All Items")
 3. Refresh the data to update visuals.  
 4. Interact with slicers and watch the **dynamic title** adjust automatically.
 
-🎥 **Watch the Interactive Power BI Dashboard Demo:**
-```
-[Click here to watch on YouTube](https://youtu.be/v60THprKYfk)
-```
-
 ## 🤝 Contribution
 
 Contributions are welcome!  
@@ -104,6 +99,10 @@ If you’d like to improve this project:
 Lets connect:
 - [LinkedIn](www.linkedin.com/in/chinenye-jennifer-nwachukwu)
 - [Email](mailto:nwachukwuchinenyejennifer@gmail.com)
+
+🎥 **Watch the Interactive Power BI Dashboard Demo:**
+
+[Click here to watch on YouTube](https://youtu.be/v60THprKYfk)
 
 ## 🕓 Last Updated
 
