@@ -5,16 +5,15 @@ It analyzes grocery sales performance across outlets, item types, fat content, a
 ## 📑 Table of Contents
 
 1. [📊 Project Overview](#-project-overview)  
-2. [⚙️ Tools & Technologies](#️-tools--technologies)  
-3. [🗂️ Dataset](#️-dataset)  
+2. [⚙️ Tools & Technologies](#-tools--technologies)  
+3. [🗂️ Dataset](#-dataset)  
 4. [🧠 Dashboard Insights](#-dashboard-insights)  
 5. [🔍 Recommendations](#-recommendations)  
 7. [🚀 How to Use](#-how-to-use)  
 9. [✨ Contact](#-contact)
-10. 
-11. [🕓 Last Updated](#-last-updated)
+10. [🕓 Last Updated](#-last-updated)
 
-12. ## 📊 Project Overview
+ ## 📊 Project Overview
 
 The goal of this dashboard is to provide insights into grocery sales trends, outlet performance, and category contributions.  
 It connects directly to MySQL to demonstrate **end-to-end data analysis** — from database queries to visualization.
